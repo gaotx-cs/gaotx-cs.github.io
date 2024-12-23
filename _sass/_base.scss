@@ -19,6 +19,14 @@ strong {
   color: var(--global-text-color);
 }
 
+body {
+  text-align: justify;
+}
+
+p {
+  text-align: justify;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }

@@ -40,6 +40,9 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Add a horizontal line -->
+    <hr style="border: 1px solid #ccc; margin: 2rem 0;">
+
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
@@ -47,6 +50,9 @@ layout: default
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
+
+    <!-- Add a horizontal line -->
+    <hr style="border: 1px solid #ccc; margin: 2rem 0;">
 
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}

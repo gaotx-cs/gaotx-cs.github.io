@@ -1,115 +1,81 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
-}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
+@inproceedings{gao2023wide,
   selected={true},
-  inspirehep_id = {3255}
+  title={Wide neural networks as gaussian processes: Lessons from deep equilibrium models},
+  author={Tianxiang Gao and Xiaokai Huo and Hailiang Liu and Hongyang Gao},
+  abbr={NeurIPS},
+  abstract={Neural networks with wide layers have attracted significant attention due to their equivalence to Gaussian processes, enabling perfect fitting of training data while maintaining generalization performance, known as benign overfitting. However, existing results mainly focus on shallow or finite-depth networks, necessitating a comprehensive analysis of wide neural networks with infinite-depth layers, such as neural ordinary differential equations (ODEs) and deep equilibrium models (DEQs). In this paper, we specifically investigate the deep equilibrium model (DEQ), an infinite-depth neural network with shared weight matrices across layers. Our analysis reveals that as the width of DEQ layers approaches infinity, it converges to a Gaussian process, establishing what is known as the Neural Network and Gaussian Process (NNGP) correspondence. Remarkably, this convergence holds even when the limits of depth and width are interchanged, which is not observed in typical infinite-depth Multilayer Perceptron (MLP) networks. Furthermore, we demonstrate that the associated Gaussian vector remains non-degenerate for any pairwise distinct input data, ensuring a strictly positive smallest eigenvalue of the corresponding kernel matrix using the NNGP kernel. These findings serve as fundamental elements for studying the training and generalization of DEQs, laying the groundwork for future research in this area.},
+  year={2023},
+  pdf={https://proceedings.neurips.cc/paper_files/paper/2023/hash/ac24656b0b5f543b202f748d62041637-Abstract-Conference.html},
+  booktitle={the 36th Advances in Neural Information Processing Systems}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+
+@inproceedings{gao2022a,
+  selected={true},
+  title={A global convergence theory for deep implicit networks via over-parameterization},
+  author={Tianxiang Gao and Hailiang Liu and Jia Liu and Hridesh Rajan and Hongyang Gao},
+  abbr={ICLR},
+  abstract={Implicit deep learning has received increasing attention recently, since it generalizes the recursive prediction rules of many commonly used neural network architectures. Its prediction rule is provided implicitly based on the solution of an equilibrium equation. Although many recent studies have experimentally demonstrates its superior performances, the theoretical understanding of implicit neural networks is limited. In general, the equilibrium equation may not be well-posed during the training. As a result, there is no guarantee that a vanilla (stochastic) gradient descent (SGD) training nonlinear implicit neural networks can converge. This paper fills the gap by analyzing the gradient flow of Rectified Linear Unit (ReLU) activated implicit neural networks. For an m-width implicit neural network with ReLU activation and n training samples, we show that a randomly initialized gradient descent converges to a global minimum at a linear rate for the square loss function if the implicit neural network is over-parameterized. It is worth noting that, unlike existing works on the convergence of (S)GD on finitelayer over-parameterized neural networks, our convergence results hold for implicit neural networks, where the number of layers is infinite.},
+  year={2022},
+  pdf={https://openreview.net/forum?id=R332S76RjxS},
+  booktitle={the 10th International Conference on Learning Representations}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@article{gao2022optimization,
+  title={On the optimization and generalization of overparameterized implicit neural networks},
+  author={Gao, Tianxiang and Gao, Hongyang},
+  abbr={arXiv},
+  journal={arXiv preprint arXiv:2209.15562},
+  year={2022},
+  abstract={Implicit neural networks have become increasingly attractive in the machine learning community since they can achieve competitive performance but use much less computational resources. Recently, a line of theoretical works established the global convergences for first-order methods such as gradient descent if the implicit networks are over-parameterized. However, as they train all layers together, their analyses are equivalent to only studying the evolution of the output layer. It is unclear how the implicit layer contributes to the training. Thus, in this paper, we restrict ourselves to only training the implicit layer. We show that global convergence is guaranteed, even if only the implicit layer is trained. On the other hand, the theoretical understanding of when and how the training performance of an implicit neural network can be generalized to unseen data is still under-explored. Although this problem has been studied in standard feed-forward networks, the case of implicit neural networks is still intriguing since implicit networks theoretically have infinitely many layers. Therefore, this paper investigates the generalization error for implicit neural networks. Specifically, we study the generalization of an implicit network activated by the ReLU function over random initialization. We provide a generalization bound that is initialization sensitive. As a result, we show that gradient flow with proper random initialization can train a sufficient over-parameterized implicit network to achieve arbitrarily small generalization errors.},
+  pdf={https://arxiv.org/abs/2209.15562}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@article{gao2020randomized,
+  title={Randomized bregman coordinate descent methods for non-lipschitz optimization},
+  author={Gao, Tianxiang and Lu, Songtao and Liu, Jia and Chu, Chris},
+  abbr={arXiv},
+  journal={arXiv preprint arXiv:2001.05202},
+  year={2020},
+  pdf={https://arxiv.org/pdf/2001.05202}
 }
 
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
+@inproceedings{gao2018did,
+  title={DID: Distributed Incremental Block Coordinate Descent for Nonnegative Matrix Factorization},
+  author={Gao, Tianxiang and Chu, Chris},
+  booktitle={the 32th AAAI Conference on Artificial Intelligence},
+  abstract={Nonnegative matrix factorization (NMF) has attracted much attention in the last decade as a dimension reduction method in many applications. Due to the explosion in the size of data, naturally the samples are collected and stored distributively in local computational nodes. Thus, there is a growing need to develop algorithms in a distributed memory architecture. We propose a novel distributed algorithm, called distributed incremental block coordinate descent (DID), to solve the problem. By adapting the block coordinate descent framework, closed-form update rules are obtained in DID. Moreover, DID performs updates incrementally based on the most recently updated residual matrix. As a result, only one communication step per iteration is required. The correctness, efficiency, and scalability of the proposed algorithm are verified in a series of numerical experiments.},
+  year={2018},
+  abbr={AAAI},
+  pdf={https://cdn.aaai.org/ojs/11736/11736-13-15264-1-2-20201228.pdf} 
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+@inproceedings{gao2016minimum,
+  title={Minimum-volume-regularized weighted symmetric nonnegative matrix factorization for clustering},
+  author={Gao, Tianxiang and Olofsson, Sigurdur and Lu, Songtao},
+  abbr = {GlobalSIP}, 
+  booktitle={2016 IEEE Global Conference on Signal and Information Processing},
+  abstract={In recent years, nonnegative matrix factorization (NMF) attracts much attention in machine learning and signal processing fields due to its interpretability of data in a low dimensional subspace. For clustering problems, symmetric nonnegative matrix factorization (SNMF) as an extension of NMF factorizes the similarity matrix of data points directly and outperforms NMF when dealing with nonlinear data structure. However, the clustering results of SNMF is very sensitive to noisy data. In this paper, we propose a minimum-volume-regularized weighted SNMF (MV-WSNMF) based on the relationship between robust NMF and SNMF. The proposed MV-WSNMF can approximate the similarity matrices flexibly such that the resulting performance is more robust against noise. A computationally efficient algorithm is also proposed with convergence guarantee. The numerical simulation results show the improvement of the proposed algorithm with respective to clustering accuracy in comparison with the state-of-the-art algorithms.},
+  pdf={https://ieeexplore.ieee.org/abstract/document/7905841},
+  year={2016},
+  organization={IEEE}
 }
+
+@mastersthesis{gao2015hybrid,
+  title = {Hybrid Classification Approach of {SMOTE} and Instance Selection for Imbalanced Datasets},
+  author = {Gao, Tianxiang},
+  abbr = {Thesis},
+  school = {Iowa State University},
+  year = {2015},
+  note = {Master's Thesis},
+  abstract={The research area of imbalanced dataset has been attracted increasing attention from both academic and industrial areas, because it poses a serious issues for so many supervised learning problems. Since the number of majority class dominates the number of minority class are from minority class, if training dataset includes all data in order to fit a classic classifier, the classifier tends to classify all data to majority class by ignoring minority data as noise. Thus, it is very significant to select appropriate training dataset in the prepossessing stage for classification of imbalanced dataset. We propose an combination approach of SMOTE (Synthetic Minority Over-sampling Technique) and instance selection approaches. The numeric results show that the proposed combination approach can help classifiers to achieve better performance.},
+  pdf={https://www.imse.iastate.edu/files/2015/04/Tianxiang-Gao-thesis.pdf}
+}
+
+
+
+
