@@ -17,7 +17,7 @@ profile:
     name: Nishant Singh
     position: Masters Student @ DePaul, 11/2024 - Present
     align: right
-    image: nishant.jpeg
+    image: Nishant.jpeg
     email: nsingh28@depaul.edu
     linkedin: nishantsinghh
     # interest: Gate mechnisms in deep neural networks
