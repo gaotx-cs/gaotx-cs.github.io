@@ -17,7 +17,7 @@ profile:
     name: Mohammed Azeezulla
     position: Masters Student @ DePaul, 11/2024 - Present
     align: right
-    image: azeez.jpg
+    image: Azeez.jpg
     email: mmoha134@depaul.edu
     linkedin: mohammed-azeezulla-b11b3b2b8
     github: zeeza18
