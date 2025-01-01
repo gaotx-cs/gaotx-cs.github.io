@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-team",
           title: "team",
-          description: "",
+          description: "I am fortunate to collaborate with a talented group of students and colleagues. Explore their profiles to discover their expertise and contributions.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/team/";
@@ -392,6 +392,12 @@ ninja.data = [{
     },{id: "members-",
           title: '',
           description: "Profile of Tianxiang Gao, Principal Investigator.",
+          section: "Members",},{id: "members-",
+          title: '',
+          description: "Profile of Mohammed Azeezulla, Master",
+          section: "Members",},{id: "members-",
+          title: '',
+          description: "Profile of Nishant Singh, Master",
           section: "Members",},{id: "members-",
           title: '',
           description: "Profile of Parisa Arbab, Ph.D.",
