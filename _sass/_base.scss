@@ -23,6 +23,14 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+h4 {
+  font-size: 1.2rem;
+}
+
+article > h2 {
+  margin-top: 4rem;
+}
+
 table {
   td,
   th {
