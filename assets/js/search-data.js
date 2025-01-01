@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-team",
+          title: "team",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/team/";
           },
         },{id: "post-a-post-with-image-galleries",
       
@@ -389,7 +389,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-thrilled-to-join-the-school-of-computing-at-depaul-university-as-an-assistant-professor",
+    },{id: "members-",
+          title: '',
+          description: "Profile of Tianxiang Gao, Principal Investigator.",
+          section: "Members",},{id: "news-thrilled-to-join-the-school-of-computing-at-depaul-university-as-an-assistant-professor",
           title: '🚀Thrilled to join the School of Computing at DePaul University as an Assistant...',
           description: "",
           section: "News",},{id: "news-thrilled-to-announce-my-new-ai-course-deep-generative-models-is-officially-approved-debuting-as-csc-594-topics-in-artificial-intelligence-in-spring-2025-this-course-will-cover-variational-autoencoders-vaes-generative-adversarial-networks-gans-autoregressive-models-normalizing-flows-energy-based-models-score-based-diffusion-flow-matching-models-stay-tuned-for-updates-can-t-wait-to-see-you-in-class",
