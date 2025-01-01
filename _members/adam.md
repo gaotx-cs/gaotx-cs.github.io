@@ -18,6 +18,8 @@ profile:
     image: adam_prof_pic.jpg
     email: t.gao@depaul.edu
     linkedin: gaotx
+    github: gaotx-cs
+    website: https://gaotx-cs.github.io/
     address: >
         CDM 712<br />
         243 South Wabash Avenue<br />

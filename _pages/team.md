@@ -38,6 +38,9 @@ nav_order: 7
                     {% if member.profile.phone %}
                         <a href="tel:{{ member.profile.phone }}" class="card-link"><i class="fas fa-phone"></i></a>
                     {% endif %}
+                    {% if member.profile.linkedin %}
+                        <a href="https://linkedin.com/in/{{ member.profile.linkedin }}/" class="card-link" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    {% endif %}
                     {% if member.profile.orcid %}
                         <a href="https://orcid.org/{{ member.profile.orcid }}" class="card-link" target="_blank"><i class="fab fa-orcid"></i></a>
                     {% endif %}
