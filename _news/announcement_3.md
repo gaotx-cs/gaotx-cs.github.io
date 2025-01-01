@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-12-21 10:00:00-0500
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+🎉 Excited to share that all my master's students—<span style="color: royalblue; font-weight: bold;">Nishant Singh</span>, <span style="color: royalblue; font-weight: bold;">Jagriti Suneja</span>, and <span style="color: royalblue; font-weight: bold;">Mohammed Azeezulla</span>—have each received prestigious [Graduate Research Assistant Program (GRAP) Award](https://www.cdm.depaul.edu/academics/research/Pages/GRAP.aspx) from <span style="color: royalblue; font-weight: bold;">DePaul CDM</span>! Congratulations to all of them for their hard work and dedication!

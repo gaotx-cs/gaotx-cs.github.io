@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-07-01 09:00:00-0500
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+🚀Thrilled to join the <span style="color: royalblue; font-weight: bold;">School of Computing</span> at <span style="color: royalblue; font-weight: bold;">DePaul University</span> as an Assistant Professor!
