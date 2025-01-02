@@ -457,7 +457,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "teaching-neural-networks-and-deep-learning",
           title: 'Neural Networks and Deep Learning',
-          description: "",
+          description: "This course covers the foundations of deep learning, including fundamental neural network architectures (e.g., multilayer perceptrons) and training methodologies, including advanced optimization techniques (e.g., momentum, RMSprop, Adam). It also addresses generalization and regularization strategies (e.g., overparameterization, the double descent phenomenon, and weight decay). We will explore cutting-edge neural network architectures, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), transformers (e.g., GPT and BERT), and graph neural networks (GNNs). Students will gain hands-on experience by implementing these models and applying them to real-world problems in computer vision, natural language processing, and graph machine learning.",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/csc578/";
             },},{
