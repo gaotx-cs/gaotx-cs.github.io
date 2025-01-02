@@ -32,6 +32,9 @@ article > h2 {
 }
 
 table {
+  width: 100%; /* Make the table occupy full width */
+  margin: 0 auto; /* Center the table horizontally */
+
   td,
   th {
     font-size: 1rem;
@@ -40,6 +43,7 @@ table {
 
   th {
     font-weight: bold;
+    background-color: var(--global-bg-color); /* Optional: Header background */
   }
 }
 

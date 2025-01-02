@@ -21,9 +21,9 @@ nav_order: 6
           </div>
         </div>
         <h6 class="font-italic mt-2 mt-sm-0">
-          {{ course.semester }}
+          {{ course.semester }} | <a href="{{ course.syllabus }}">Syllabus</a>
         </h6>
-        <p>{{ course.description }}</p>
+        <!-- <p>{{ course.description }}</p> -->
       </div>
     </div>
   {% endfor %}

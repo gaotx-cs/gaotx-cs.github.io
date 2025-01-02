@@ -3,22 +3,38 @@ layout: default
 ---
 <div class="container mt-5">
   <h1 class="font-weight-bold">{{ page.course_code }}: {{ page.title }}</h1>
+
+  <hr/>
+  <h2 id="Personnel">Personnel</h2>
+
+  <ul>
+    {% if page.instructor %}
+      <li><strong>Instructor:</strong> <a href="{{ page.instructor_url }}" target="_blank">{{ page.instructor }}</a></li>
+    {% endif %}
+
+    {% if page.time %}
+      <li><strong>Meeting time:</strong> {{ page.time }}</li>
+    {% endif %}
+
+    {% if page.location %}
+      <li><strong>Location:</strong> {{ page.location }} | <a href="{{ page.zoom }}" target="_blank">Zoom</a></li>
+    {% endif %}
+
+    {% if page.office_hours %}
+      <li><strong>Office Hours:</strong> {{ page.office_hours }}</li>
+    {% endif %}
+  </ul>
+
+  <hr/>
+
+  {% if page.description %}
+    <h2>Course Description</h2>
+    <p>{{ page.description }}</p>
+  {% endif %}
+
+
+  <hr/>
+
   <p class="mt-4">{{ page.content }}</p>
-
-  {% if page.instructor %}
-    <p class="mt-4"><strong>Instructor:</strong> <a href="{{ page.instructor_url }}" target="_blank">{{ page.instructor }}</a></p>
-  {% endif %}
-
-  {% if page.materials %}
-    <h5 class="mt-4">Materials</h5>
-    <ul>
-      {% for material in page.materials %}
-        <li>
-          <strong>{{ material.type | capitalize }}:</strong>
-          <a href="{{ material.url }}" target="_blank">{{ material.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-  {% endif %}
 
 </div>
