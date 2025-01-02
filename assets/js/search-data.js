@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "A collection of classes, workshops, tutorials, and teaching materials",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -455,6 +455,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teaching-neural-networks-and-deep-learning",
+          title: 'Neural Networks and Deep Learning',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/csc578/";
             },},{
         id: 'social-discord',
         title: 'Discord',
