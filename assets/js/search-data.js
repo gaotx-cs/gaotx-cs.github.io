@@ -397,6 +397,9 @@ ninja.data = [{
           description: "Profile of Mohammed Azeezulla, Master",
           section: "Members",},{id: "members-",
           title: '',
+          description: "Profile of Jagriti Suneja, Master",
+          section: "Members",},{id: "members-",
+          title: '',
           description: "Profile of Nishant Singh, Master",
           section: "Members",},{id: "members-",
           title: '',
@@ -406,6 +409,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-thrilled-to-announce-my-new-ai-course-deep-generative-models-is-officially-approved-debuting-as-csc-594-topics-in-artificial-intelligence-in-spring-2025-this-course-will-cover-variational-autoencoders-vaes-generative-adversarial-networks-gans-autoregressive-models-normalizing-flows-energy-based-models-score-based-diffusion-flow-matching-models-stay-tuned-for-updates-can-t-wait-to-see-you-in-class",
           title: '📢 Thrilled to announce my new AI course, Deep Generative Models, is officially...',
+          description: "",
+          section: "News",},{id: "news-excited-to-share-that-i-gave-a-talk-on-building-your-own-customized-gpt-teaching-assistant-for-free-at-the-ai-in-teaching-symposium-you-can-check-out-the-recording-here",
+          title: '💡 Excited to share that I gave a talk on “Building Your Own...',
           description: "",
           section: "News",},{id: "news-excited-to-share-that-all-my-master-s-students-nishant-singh-jagriti-suneja-and-mohammed-azeezulla-have-each-received-prestigious-graduate-research-assistant-program-grap-award-from-depaul-cdm-congratulations-to-all-of-them-for-their-hard-work-and-dedication",
           title: '🎉 Excited to share that all my master’s students—Nishant Singh, Jagriti Suneja, and...',
@@ -460,6 +466,11 @@ ninja.data = [{
           description: "This course covers the foundations of deep learning, including fundamental neural network architectures (e.g., multilayer perceptrons) and training methodologies, including advanced optimization techniques (e.g., momentum, RMSprop, Adam). It also addresses generalization and regularization strategies (e.g., overparameterization, the double descent phenomenon, and weight decay). We will explore cutting-edge neural network architectures, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), transformers (e.g., GPT and BERT), and graph neural networks (GNNs). Students will gain hands-on experience by implementing these models and applying them to real-world problems in computer vision, natural language processing, and graph machine learning.",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/csc578/";
+            },},{id: "teaching-deep-generative-models",
+          title: 'Deep Generative Models',
+          description: "This course explores advanced generative models in deep learning, focusing on techniques such as Autoregressive model Models, Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs), Score-Based Models, and Diffusion Models. Students will learn theoretical foundations and practical applications in text generation, image synthesis, multimodal large models, and evaluating generative models. The course emphasizes hands-on assignments where students will implement and analyze models using popular frameworks like PyTorch.",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/csc594/";
             },},{
         id: 'social-discord',
         title: 'Discord',
