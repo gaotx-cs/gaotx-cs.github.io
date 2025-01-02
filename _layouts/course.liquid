@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="container mt-5">
+  <h1 class="font-weight-bold">{{ page.course_code }}: {{ page.title }}</h1>
+  <p class="mt-4">{{ page.content }}</p>
+
+  {% if page.instructor %}
+    <p class="mt-4"><strong>Instructor:</strong> <a href="{{ page.instructor_url }}" target="_blank">{{ page.instructor }}</a></p>
+  {% endif %}
+
+  {% if page.materials %}
+    <h5 class="mt-4">Materials</h5>
+    <ul>
+      {% for material in page.materials %}
+        <li>
+          <strong>{{ material.type | capitalize }}:</strong>
+          <a href="{{ material.url }}" target="_blank">{{ material.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+</div>
