@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 permalink: /teaching/
 description: A collection of classes, workshops, tutorials, and teaching materials
 nav: true

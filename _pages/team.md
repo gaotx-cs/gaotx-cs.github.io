@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /team/
-title: team
+title: Team
 page-title: Team
 description: >
     I am fortunate to collaborate with a talented group of students and colleagues. Explore their profiles to discover their expertise and contributions.
