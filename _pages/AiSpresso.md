@@ -29,4 +29,4 @@ Welcome to **AiSpresso** ☕🤖, a weekly casual gathering where AI enthusiasts
 ---
 
 ## How to Participate  
-Join us every Tuesday to explore groundbreaking ideas in AI and deep learning. If you'd like to present a paper, please reach out to Adam, Kenny, or DJ. Everyone is welcome, whether you're here to share or just listen and learn!  
+Join us to explore groundbreaking ideas in AI and deep learning. If you'd like to present a paper, please reach out to Adam, Kenny, or DJ. Everyone is welcome, whether you're here to share or just listen and learn!  
