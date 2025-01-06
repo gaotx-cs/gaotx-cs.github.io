@@ -23,6 +23,14 @@ layout: default
     {% if page.office_hours %}
       <li><strong>Office Hours:</strong> {{ page.office_hours }}</li>
     {% endif %}
+
+    {% if page.ta %}
+      <li><strong>TA:</strong> {{ page.ta }}
+        {% if page.ta_email %}
+          (<a href="mailto:{{ page.ta_email }}">{{ page.ta_email }}</a>)
+        {% endif %}
+      </li>
+    {% endif %}
   </ul>
 
   <hr/>
