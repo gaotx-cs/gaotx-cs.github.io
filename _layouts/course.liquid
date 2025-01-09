@@ -17,11 +17,11 @@ layout: default
     {% endif %}
 
     {% if page.location %}
-      <li><strong>Location:</strong> {{ page.location }} | <a href="{{ page.zoom }}" target="_blank">Zoom</a></li>
+      <li><strong>Location:</strong> {{ page.location }} </li>
     {% endif %}
 
     {% if page.office_hours %}
-      <li><strong>Office Hours:</strong> {{ page.office_hours }}</li>
+      <li><strong>Office Hours:</strong> {{ page.office_hours }} | <a href="{{ page.zoom }}" target="_blank">Zoom</a> </li>
     {% endif %}
 
     {% if page.ta %}
