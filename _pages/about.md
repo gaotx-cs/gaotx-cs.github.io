@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Jarvis College of CDM 712</p>
     <p>243 South Wabash Avenue</p>
-    <p>CDM 712, Chicago, IL 60604</p>
+    <p>Chicago, IL 60604</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

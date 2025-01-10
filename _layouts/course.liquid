@@ -31,6 +31,21 @@ layout: default
         {% endif %}
       </li>
     {% endif %}
+
+    {% if page.syllabus or page.logistics %}
+      <li><strong>Overview:</strong>
+        {% if page.syllabus %}
+          <a href="{{ page.syllabus }}" target="_blank">Syllabus</a>
+        {% endif %}
+        {% if page.syllabus and page.logistics %}
+          |
+        {% endif %}
+        {% if page.logistics %}
+          <a href="{{ page.logistics }}" target="_blank">Slides</a>
+        {% endif %}
+      </li>
+    {% endif %}
+
   </ul>
 
   <hr/>
