@@ -22,7 +22,7 @@ Welcome to **AiSpresso** ☕🤖, a weekly casual gathering where AI enthusiasts
 
 | Date       | Paper                                                                           | Presenter      |
 |------------|---------------------------------------------------------------------------------|----------------|
-| 01/13/2025 | [Transformers Are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236), ICML 2020 | Adam Gao       |
+| 01/13/2025 | [Transformers Are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236), *ICML 2020* | Adam Gao       |
 
 ---
 
@@ -31,4 +31,4 @@ Join us to explore groundbreaking ideas in AI and deep learning. If you'd like t
 
 ---
 ## Additional Reading
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762), NeurIPS 2017
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762), *NeurIPS 2017*
