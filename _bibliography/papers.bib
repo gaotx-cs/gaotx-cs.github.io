@@ -1,6 +1,17 @@
 ---
 ---
 
+@inproceedings{gao2025exp,
+selected={true},
+title={Exploring the Impact of Activation Functions in Training Neural {ODE}s},
+author={Tianxiang Gao and Siyuan Sun and Hailiang Liu and Hongyang Gao},
+abstract={Neural Ordinary Differential Equations (ODEs) have been successful in various applications due to their continuous nature and parameter-sharing efficiency. However, these unique characteristics also introduce challenges in training, particularly with respect to gradient computation accuracy and convergence analysis. In this paper, we address these challenges by investigating the impact of activation functions. We demonstrate that the properties of activation functions—specifically smoothness and nonlinearity—are critical to the training dynamics. Smooth activation functions guarantee globally unique solutions for both forward and backward ODEs, while sufficient nonlinearity is essential for maintaining the spectral properties of the Neural Tangent Kernel (NTK) during training. Together, these properties enable us to establish the global convergence of Neural ODEs under gradient descent in overparameterized regimes. Our theoretical findings are validated by numerical experiments, which not only support our analysis but also provide practical guidelines for scaling Neural ODEs, potentially leading to faster training and improved performance in real-world applications.},
+abbr={ICLR},
+booktitle={The 13th International Conference on Learning Representations (ICLR)},
+year={2025},
+pdf={https://openreview.net/forum?id=AoraWUmpLU},
+url={https://openreview.net/forum?id=AoraWUmpLU}
+}
 
 @inproceedings{gao2023wide,
   selected={true},
@@ -10,7 +21,7 @@
   abstract={Neural networks with wide layers have attracted significant attention due to their equivalence to Gaussian processes, enabling perfect fitting of training data while maintaining generalization performance, known as benign overfitting. However, existing results mainly focus on shallow or finite-depth networks, necessitating a comprehensive analysis of wide neural networks with infinite-depth layers, such as neural ordinary differential equations (ODEs) and deep equilibrium models (DEQs). In this paper, we specifically investigate the deep equilibrium model (DEQ), an infinite-depth neural network with shared weight matrices across layers. Our analysis reveals that as the width of DEQ layers approaches infinity, it converges to a Gaussian process, establishing what is known as the Neural Network and Gaussian Process (NNGP) correspondence. Remarkably, this convergence holds even when the limits of depth and width are interchanged, which is not observed in typical infinite-depth Multilayer Perceptron (MLP) networks. Furthermore, we demonstrate that the associated Gaussian vector remains non-degenerate for any pairwise distinct input data, ensuring a strictly positive smallest eigenvalue of the corresponding kernel matrix using the NNGP kernel. These findings serve as fundamental elements for studying the training and generalization of DEQs, laying the groundwork for future research in this area.},
   year={2023},
   pdf={https://proceedings.neurips.cc/paper_files/paper/2023/hash/ac24656b0b5f543b202f748d62041637-Abstract-Conference.html},
-  booktitle={the 36th Advances in Neural Information Processing Systems}
+  booktitle={the 36th Advances in Neural Information Processing Systems (NeruIPS)}
 }
 
 
@@ -22,7 +33,7 @@
   abstract={Implicit deep learning has received increasing attention recently, since it generalizes the recursive prediction rules of many commonly used neural network architectures. Its prediction rule is provided implicitly based on the solution of an equilibrium equation. Although many recent studies have experimentally demonstrates its superior performances, the theoretical understanding of implicit neural networks is limited. In general, the equilibrium equation may not be well-posed during the training. As a result, there is no guarantee that a vanilla (stochastic) gradient descent (SGD) training nonlinear implicit neural networks can converge. This paper fills the gap by analyzing the gradient flow of Rectified Linear Unit (ReLU) activated implicit neural networks. For an m-width implicit neural network with ReLU activation and n training samples, we show that a randomly initialized gradient descent converges to a global minimum at a linear rate for the square loss function if the implicit neural network is over-parameterized. It is worth noting that, unlike existing works on the convergence of (S)GD on finitelayer over-parameterized neural networks, our convergence results hold for implicit neural networks, where the number of layers is infinite.},
   year={2022},
   pdf={https://openreview.net/forum?id=R332S76RjxS},
-  booktitle={the 10th International Conference on Learning Representations}
+  booktitle={the 10th International Conference on Learning Representations (ICLR)}
 }
 
 @article{gao2022optimization,
@@ -47,7 +58,7 @@
 @inproceedings{gao2018did,
   title={DID: Distributed Incremental Block Coordinate Descent for Nonnegative Matrix Factorization},
   author={Gao, Tianxiang and Chu, Chris},
-  booktitle={the 32th AAAI Conference on Artificial Intelligence},
+  booktitle={the 32th AAAI Conference on Artificial Intelligence (AAAI)},
   abstract={Nonnegative matrix factorization (NMF) has attracted much attention in the last decade as a dimension reduction method in many applications. Due to the explosion in the size of data, naturally the samples are collected and stored distributively in local computational nodes. Thus, there is a growing need to develop algorithms in a distributed memory architecture. We propose a novel distributed algorithm, called distributed incremental block coordinate descent (DID), to solve the problem. By adapting the block coordinate descent framework, closed-form update rules are obtained in DID. Moreover, DID performs updates incrementally based on the most recently updated residual matrix. As a result, only one communication step per iteration is required. The correctness, efficiency, and scalability of the proposed algorithm are verified in a series of numerical experiments.},
   year={2018},
   abbr={AAAI},
@@ -58,7 +69,7 @@
   title={Minimum-volume-regularized weighted symmetric nonnegative matrix factorization for clustering},
   author={Gao, Tianxiang and Olofsson, Sigurdur and Lu, Songtao},
   abbr = {GlobalSIP}, 
-  booktitle={2016 IEEE Global Conference on Signal and Information Processing},
+  booktitle={2016 IEEE Global Conference on Signal and Information Processing (GlobalSIP)},
   abstract={In recent years, nonnegative matrix factorization (NMF) attracts much attention in machine learning and signal processing fields due to its interpretability of data in a low dimensional subspace. For clustering problems, symmetric nonnegative matrix factorization (SNMF) as an extension of NMF factorizes the similarity matrix of data points directly and outperforms NMF when dealing with nonlinear data structure. However, the clustering results of SNMF is very sensitive to noisy data. In this paper, we propose a minimum-volume-regularized weighted SNMF (MV-WSNMF) based on the relationship between robust NMF and SNMF. The proposed MV-WSNMF can approximate the similarity matrices flexibly such that the resulting performance is more robust against noise. A computationally efficient algorithm is also proposed with convergence guarantee. The numerical simulation results show the improvement of the proposed algorithm with respective to clustering accuracy in comparison with the state-of-the-art algorithms.},
   pdf={https://ieeexplore.ieee.org/abstract/document/7905841},
   year={2016},

@@ -20,10 +20,11 @@ Welcome to **AiSpresso** ☕🤖, a weekly casual gathering where AI enthusiasts
 
 ## Schedule  
 
+
 | Date       | Paper                                                                           | Presenter      |
 |------------|---------------------------------------------------------------------------------|----------------|
 | 01/13/2025 | [Transformers Are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236), *ICML 2020* | Adam Gao       |
-| 01/20/2025 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929), *ICLR 2021* | Kenny Davila |
+| 01/27/2025 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929), *ICLR 2021* | Kenny Davila    |
 
 
 ---

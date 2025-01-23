@@ -15,5 +15,3 @@ Debuting as <span style="color: royalblue; font-weight: bold;">CSC 594: Topics i
 - Normalizing Flows  
 - Energy-Based Models  
 - Score-Based/Diffusion/Flow Matching Models  
-
-Stay tuned for updates—can’t wait to see you in class!

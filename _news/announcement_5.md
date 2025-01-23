@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-📢 I’m thrilled to be invited at the [Math Colloquium](https://csh.depaul.edu/academics/mathematical-sciences/research/Pages/seminars.aspx) hosted by the [Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathematical-sciences/Pages/default.aspx) at [DePaul University](https://www.depaul.edu/Pages/default.aspx).
+📢 I’m happy to be invited at the [Math Colloquium](https://csh.depaul.edu/academics/mathematical-sciences/research/Pages/seminars.aspx) hosted by the [Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathematical-sciences/Pages/default.aspx) at [DePaul University](https://www.depaul.edu/Pages/default.aspx).
 
 - 🗓️ Date: Friday, November 1, 2024
 - ⏰ Time: 2:00 PM – 3:00 PM
