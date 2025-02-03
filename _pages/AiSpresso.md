@@ -26,7 +26,7 @@ Welcome to **AiSpresso** ☕🤖, a weekly casual gathering where AI enthusiasts
 | 01/13/2025 | [Transformers Are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236), *ICML 2020* | Adam Gao       |
 | 01/20/2025 | *Meeting Canceled (Martin Luther King Jr. Day)*                          |                |
 | 01/27/2025 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929), *ICLR 2021* | Kenny Davila    |
-| 02/03/2025 | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948), *ArXiv 2025* |Adam Gao|
+| 02/03/2025 | [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456), *ICLR 2020* |Adam Gao|
 | 02/10/2025 | [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://www.swebench.com/), *ICLR 2024* | DJ Kim |
 
 
@@ -38,3 +38,4 @@ Join us to explore groundbreaking ideas in AI and deep learning. If you'd like t
 ---
 ## Additional Reading
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762), *NeurIPS 2017*
+- [Dr. Yang Song's Blog](https://yang-song.net/blog/2021/score/)
