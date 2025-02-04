@@ -38,4 +38,4 @@ Join us to explore groundbreaking ideas in AI and deep learning. If you'd like t
 ---
 ## Additional Reading
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762), *NeurIPS 2017*
-- [Dr. Yang Song's Blog](https://yang-song.net/blog/2021/score/)
+- [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/), *Dr. Yang Song's Blog, 2021*
