@@ -21,14 +21,15 @@ Welcome to **AiSpresso** ☕🤖, a weekly casual gathering where AI enthusiasts
 ## Schedule  
 
 
-| Date       | Paper                                                                           | Presenter      |
-|------------|---------------------------------------------------------------------------------|----------------|
+| Date       | Paper                                                                                                              | Presenter      |
+|------------|------------------------------------------------------------------------------------------------------------------|----------------|
 | 01/13/2025 | [Transformers Are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236), *ICML 2020* | Adam Gao       |
-| 01/20/2025 | *Meeting Canceled (Martin Luther King Jr. Day)*                          |                |
+| 01/20/2025 | *Meeting Canceled (Martin Luther King Jr. Day)*                                                                   | &nbsp;         |
 | 01/27/2025 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929), *ICLR 2021* | Kenny Davila    |
-| 02/03/2025 | [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456), *ICLR 2020* |Adam Gao|
-| 02/10/2025 | [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://www.swebench.com/), *ICLR 2024* | DJ Kim |
-| 02/17/2025 | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903), *NeurIPS 2022* | Adam Gao |
+| 02/03/2025 | [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456), *ICLR 2020* | Adam Gao       |
+| 02/10/2025 | [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://www.swebench.com/), *ICLR 2024*       | DJ Kim         |
+| 02/17/2025 | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903), *NeurIPS 2022* | Adam Gao       |
+
 ---
 
 ## How to Participate  
