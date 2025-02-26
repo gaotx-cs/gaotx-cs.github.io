@@ -26,4 +26,8 @@ Welcome! I’m Tianxiang (天翔), but feel free to call me Adam—I’m happy w
 
 💡My research focuses on **deep learning theory**, **generative AI**, and **graph representation learning**. I enjoy exploring fundamental problems that mysteriously arise from real-world applications and offering insightful guidelines to advance practice.
 
-🌟<span style="color: red; font-weight: bold;">Immediate Openings!</span> I am recruiting Ph.D. students starting in Fall 2025 and Winter 2026. If you are interested, please send your CV, transcripts, publications (if available), and GRE/TOEFL scores (if available) to [t.gao@depaul.edu](mailto:t.gao@depaul.edu).
+🌟<span style="color: red; font-weight: bold;">Immediate Openings!</span> 
+- I am recruiting Ph.D. students starting in Fall 2025 and Winter 2026. 
+- I am looking for multiple Research Assistants (RAs) for Spring 2025 and Summer 2025 to work on projects in deep learning theory and graph representation learning. 
+
+If you are interested, please send your CV, transcripts, publications (if available), and GRE/TOEFL scores (if available) to [t.gao@depaul.edu](mailto:t.gao@depaul.edu).
