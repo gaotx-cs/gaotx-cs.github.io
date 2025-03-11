@@ -31,6 +31,8 @@ Welcome to **AiSpresso** ☕🤖, a weekly casual gathering where AI enthusiasts
 | 02/17/2025 | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903), *NeurIPS 2022* | Adam Gao       |
 | 02/24/2025 | *Meeting Canceled*  | &nbsp;         |
 | 03/03/2025 | [TextDiffuser: Diffusion Models as Text Painters](https://openreview.net/forum?id=ke3RgcDmfO&noteId=OlewIMEa75), *NeurIPS 2023* | Kenny Davila  |
+| 02/24/2025 | *Meeting Canceled (AI Seminar and Workshop with Red Hat)*  | &nbsp;         |
+| 03/17/2025 | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948), *ArXiv 2025* | Adam Gao       |
 
 
 ---
