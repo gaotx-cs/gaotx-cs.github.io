@@ -14,4 +14,4 @@ related_posts: false
 - Smoothness & nonlinearity of activation functions are the secret sauce—not only ensuring convergence but also accelerating training.
 - Surprisingly, for large-scale neural ODEs, fixed-step solvers can be more efficient than adaptive solvers!
 
-Looking forward to presenting and discussing these insights at ICLR 2025 in Singapore! 🚀
+Looking forward to presenting and discussing these insights in Singapore! 🚀

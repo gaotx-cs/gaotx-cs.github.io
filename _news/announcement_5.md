@@ -12,4 +12,4 @@ related_posts: false
 - 📍 Location: Arts & Letters Hall, Room 207
 - 🎙️ Topic: <span style="color: royalblue; font-weight: bold;">“Learnability in Infinite-Depth Neural Networks: Overparameterization and the Role of Gaussian Processes”</span>
 
-I look forward to sharing insights and sparking engaging discussions! See you there! 🚀
+<!-- I look forward to sharing insights and sparking engaging discussions! See you there! 🚀 -->

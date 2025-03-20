@@ -33,7 +33,7 @@ Welcome to **AiSpresso** ☕🤖, a weekly casual gathering where AI enthusiasts
 | 03/03/2025 | [TextDiffuser: Diffusion Models as Text Painters](https://openreview.net/forum?id=ke3RgcDmfO&noteId=OlewIMEa75), *NeurIPS 2023* | Kenny Davila  |
 | 02/24/2025 | *Meeting Canceled (AI Seminar and Workshop with Red Hat)*  | &nbsp;         |
 | 03/17/2025 | [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://openreview.net/forum?id=1PL1NIMMrw), *ICLR 2023* | Adam Gao       |
-| 03/24/2025 |[Reflexion: Language Agents with Verbal Reinforcement Learning](https://openreview.net/forum?id=vAElhFcKW6), *NeurIPS 2023* | DJ Kim | 
+| 03/24/2025 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://openreview.net/forum?id=vAElhFcKW6), *NeurIPS 2023* | DJ Kim | 
 
 
 ---
