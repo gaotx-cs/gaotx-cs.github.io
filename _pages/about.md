@@ -30,4 +30,4 @@ Welcome! I’m Tianxiang (天翔), but feel free to call me Adam—I’m happy w
 - I am recruiting Ph.D. students starting in Fall 2025 and Winter 2026. 
 - I am looking for multiple Research Assistants (RAs) for Spring 2025 and Summer 2025 to work on projects in deep learning theory and graph representation learning. 
 
-If you are interested, please send your CV, transcripts, publications (if available), and GRE/TOEFL scores (if available) to [t.gao@depaul.edu](mailto:t.gao@depaul.edu).
+If you are interested, please send your CV, transcripts, publications (if available), and GRE/TOEFL scores (if available) to [tgao9@depaul.edu](mailto:t.gao@depaul.edu).
