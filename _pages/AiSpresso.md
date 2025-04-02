@@ -12,7 +12,7 @@ Welcome to **AiSpresso** ☕🤖, a weekly casual gathering where AI enthusiasts
 
 - **Organizers:** [Tianxiang (Adam) Gao](https://gaotx-cs.github.io/), [Kenny Davila](https://kdavila.com/), [Dong Jae (DJ) Kim](https://professordjkim.github.io/)  
 - **Location:** Room 107, CDM Building, Loop Campus  
-- **Time:** Wedsdays, 4:00 PM - 5:00 PM  
+- **Time:** Wedsdays, 3:30 PM - 5:00 PM  
 - **Zoom Link:** [Join the Meeting](https://depaul.zoom.us/my/gaotx)  
 
 ---
