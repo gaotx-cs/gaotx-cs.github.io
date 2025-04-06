@@ -22,6 +22,8 @@ Welcome to **AiSpresso** ☕🤖, a weekly casual gathering where AI enthusiasts
 | Date       | Paper                                                                                                     | Presenter      |
 |------------|-----------------------------------------------------------------------------------------------------------|----------------|
 | 04/02/2025 | [Learning to Generate Unit Tests for Automated Debugging](https://arxiv.org/pdf/2502.01619), *ArXiv 2025* | DJ Kim | 
+| 04/09/2025 | [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), *ICML 2021* | Kenny Davila | 
+
 
 
 <br>
