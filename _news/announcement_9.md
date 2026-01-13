@@ -6,12 +6,11 @@ related_posts: false
 ---
 
 
-🎉 I’m happy to share that our research initiatives have been selected for and awarded the prestigious [Graduate Research Assistant Program (GRAP) Award](https://www.cdm.depaul.edu/academics/research/Pages/GRAP.aspx) from <span style="color: royalblue; font-weight: bold;">DePaul University Jarvis College of Computing and Digital Media</span>!
+🎉 I’m happy to share that our research initiatives have been selected for and awarded the prestigious [Graduate Research Assistant Program (GRAP) Award](https://www.cdm.depaul.edu/academics/research/Pages/GRAP.aspx) from <span style="color: royalblue; font-weight: bold;">DePaul CDM</span>!
 
 The awards support student research in the following areas:
 
-<span style="color: royalblue; font-weight: bold;">Efficient Transformer attention architectures</span>
+- Efficient Transformer attention architectures
+- Scalable graph machine learning 
 
-<span style="color: royalblue; font-weight: bold;">Scalable graph machine learning</span>
-
-The GRAP awards provide <span style="color: royalblue; font-weight: bold;">tuition waivers and research assistant stipends</span> for the supported students.
+The GRAP awards provide <span style="color: red; font-weight: bold;">tuition waivers</span> and <span style="color: red; font-weight: bold;">research assistant stipends</span> for the supported students.

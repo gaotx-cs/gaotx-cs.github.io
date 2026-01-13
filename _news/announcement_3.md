@@ -11,10 +11,10 @@ related_posts: false
 
 The awards support student research across the following directions:
 
-<span style="color: royalblue; font-weight: bold;">Scalable graph machine learning</span>
+- Scalable graph machine learning
 
-<span style="color: royalblue; font-weight: bold;">Efficient Transformer attention architectures</span>
+- Efficient Transformer attention architectures
 
-<span style="color: royalblue; font-weight: bold;">Feature learning theory and scaling laws</span>
+- Feature learning theory and scaling laws
 
-The GRAP awards include <span style="color: royalblue; font-weight: bold;">tuition waivers and research assistant stipends</span> for the supported students.
+The GRAP awards include <span style="color: red; font-weight: bold;">tuition waivers</span> and <span style="color: red; font-weight: bold;">research assistant stipends</span> for the supported students.
