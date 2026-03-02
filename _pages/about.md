@@ -24,7 +24,7 @@ Welcome! I’m Tianxiang (天翔), but feel free to call me Adam—I’m happy w
 
 ## Research 
 
-💡My research focuses on **deep learning theory**, **generative AI**, and **graph representation learning**. I enjoy exploring fundamental problems that mysteriously arise from real-world applications and offering insightful guidelines to advance practice.
+💡My research focuses on **deep learning theory**, and **AI4Healthcare**. I enjoy exploring fundamental problems that mysteriously arise from real-world applications and offering insightful guidelines to advance practice.
 
 🌟<span style="color: red; font-weight: bold;">Openings!</span> 
 <!-- - I am recruiting Ph.D. students starting in Fall 2025 and Winter 2026.  -->
