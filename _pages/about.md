@@ -33,5 +33,4 @@ On the applied side, we develop AI methods for healthcare, focusing on **biomedi
 
 ## Opportunities to Collaborate
 
-I am always interested in collaborating with motivated students and researchers who share an interest in **deep learning theory** and **AI for healthcare**. If you are interested in working with us, please feel free to reach out and send your CV, transcripts, publications (if available), and GRE/TOEFL scores (if available) to  
-[tgao9@depaul.edu](mailto:tgao9@depaul.edu) or [gaotx@uchicago.edu](mailto:gaotx@uchicago.edu).
+I am always interested in collaborating with motivated students and researchers who share an interest in **deep learning theory** and **AI for healthcare**. If you are interested in working with us, please feel free to reach out and send your CV, transcripts, publications (if available), and GRE/TOEFL scores (if available) to [tgao9@depaul.edu](mailto:tgao9@depaul.edu) or [gaotx@uchicago.edu](mailto:gaotx@uchicago.edu).
