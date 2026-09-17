@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Exciting news: Our new course, <span style="color: royalblue; font-weight: bold;">CSC 594: Deep Generative Models</span> at DePaul University, is supported by <span style="color: royalblue; font-weight: bold;">Google Cloud Education</span> Credits! Grateful for Google Cloud's support! 🚀
+Our new course, <span style="color: royalblue;">CSC 594: Deep Generative Models</span> is supported by <span style="color: royalblue;">Google Cloud Education Credits</span>! Grateful for Google Cloud's support! 
