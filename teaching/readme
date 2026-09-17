@@ -1,0 +1,27 @@
+Post-training LLMs: from SFT to preference optimization to RL.
+
+That is a better research-facing framing because the classic RLHF pipeline is still foundational, but a lot of recent work has shifted toward direct preference optimization, hybrid SFT+RL pipelines, and verifier- or rule-based RL for reasoning rather than pure PPO-style RL alone. Recent surveys and comparative studies explicitly describe post-training as a broader space and highlight the move toward hybrid methods.
+
+Part 1. The classic RLHF pipeline — 30 to 35 min
+
+This should be the historical and conceptual foundation.
+
+Cover:
+
+instruction tuning / SFT
+preference data collection
+reward model training
+policy optimization with KL control
+why PPO became the standard recipe
+
+Core references:
+
+Christiano et al., 2017, Deep Reinforcement Learning from Human Preferences — origin of the preference-learning framing.
+Ouyang et al., 2022, Training Language Models to Follow Instructions with Human Feedback — canonical InstructGPT pipeline.
+Schulman et al., 2017, Proximal Policy Optimization Algorithms — background for PPO as the workhorse optimizer. (This one I did not browse separately in this turn, so I’ll mention it as standard background rather than cite it.)
+Constitutional AI / RLAIF as a variant using AI feedback instead of direct human preference labels.
+
+What to emphasize:
+
+RLHF is not “just RL”; it is KL-regularized policy optimization over text generation.
+
