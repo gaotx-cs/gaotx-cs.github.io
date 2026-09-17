@@ -5,13 +5,4 @@ inline: true
 related_posts: false  
 ---
 
-📢 Thrilled to announce my new AI course, <span style="color: orange; font-weight: bold;">Deep Generative Models</span>, is officially approved!  
-
-Debuting as <span style="color: royalblue; font-weight: bold;">CSC 594: Topics in Artificial Intelligence</span> in <span style="color: red; font-weight: bold;">Spring 2025</span>, this course will cover:  
-
-- Variational Autoencoders (VAEs)  
-- Generative Adversarial Networks (GANs)  
-- Autoregressive Models  
-- Normalizing Flows  
-- Energy-Based Models  
-- Score-Based/Diffusion/Flow Matching Models  
+Pleased to announce that my new course, <span style="color: orange;">Deep Generative Models</span>, has been officially approved. It will debut as <span style="color: royalblue;">CSC 594: Topics in Artificial Intelligence</span> in <span style="color: red;">Spring 2025</span>.
