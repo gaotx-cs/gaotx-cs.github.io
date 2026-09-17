@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave a talk on <span style="color: green; font-weight: bold;">"Building Your Own Customized GPT Teaching Assistant for ‘Free’”</span> at the [AI in Teaching Symposium](https://blogs.depaul.edu/ai-institute/ai-in-teaching/) held by [DePaul AI Institute](https://blogs.depaul.edu/ai-institute/welcome-to-the-depaul-ai-institute/)! You can check out the recording [here](https://blogs.depaul.edu/ai-institute/adam-gao-building-your-own-customized-gpt-teaching-assistant-for-free/).
+Gave a talk on "Building Your Own Customized GPT Teaching Assistant for ‘Free’” at the [AI in Teaching Symposium](https://blogs.depaul.edu/ai-institute/ai-in-teaching/) held by [DePaul AI Institute](https://blogs.depaul.edu/ai-institute/welcome-to-the-depaul-ai-institute/)! You can check out the recording [here](https://blogs.depaul.edu/ai-institute/adam-gao-building-your-own-customized-gpt-teaching-assistant-for-free/).
