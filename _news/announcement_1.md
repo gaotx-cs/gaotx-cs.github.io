@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🚀Thrilled to join the <span style="color: royalblue; font-weight: bold;">School of Computing</span> at <span style="color: royalblue; font-weight: bold;">DePaul University</span> as an Assistant Professor!
+I am pleased to announce that I have joined the <span style="color: royalblue;">School of Computing</span> at <span style="color: royalblue;">DePaul University</span> as an Assistant Professor.
