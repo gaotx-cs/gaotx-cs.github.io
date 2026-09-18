@@ -438,7 +438,7 @@ ninja.data = [{
           section: "News",},{id: "news-happy-to-share-that-our-research-initiatives-have-been-selected-to-receive-the-graduate-research-assistant-program-grap-award-from-depaul-cdm-the-awards-support-student-research-in-the-following-areas-scalable-graph-machine-learning-efficient-transformer-attention-architectures",
           title: 'Happy to share that our research initiatives have been selected to receive the...',
           description: "",
-          section: "News",},{id: "news-pleased-to-share-that-i-v-been-appointed-as-a-visiting-research-member-at-the-institute-for-mathematical-and-statistical-innovation-imsi-at-the-university-of-chicago-for-spring-2026-i-will-participate-in-imsi-s-long-program-on-theoretical-advances-in-reinforcement-learning-and-control",
+          section: "News",},{id: "news-pleased-to-share-that-i-v-been-appointed-as-a-visiting-research-member-at-the-imsi-at-the-uchicago-for-spring-2026-i-will-participate-in-imsi-s-long-program-on-theoretical-advances-in-reinforcement-learning-and-control",
           title: 'Pleased to share that I’v been appointed as a Visiting Research Member at...',
           description: "",
           section: "News",},{id: "news-recognized-as-a-gold-reviewer-for-icml-2026-with-complimentary-registration",
