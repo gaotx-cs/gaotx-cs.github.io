@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded an [ALCF](https://www.alcf.anl.gov/) Director's Discretionary allocation on [Polaris](https://www.alcf.anl.gov/science/directors-discretionary-allocation-program) to support our study on depth scaling and feature learning dynamics in deep Transformers. Grateful to the ALCF team.
+Awarded an [ALCF](https://www.alcf.anl.gov/) Director's Discretionary allocation on [Polaris](https://www.alcf.anl.gov/science/directors-discretionary-allocation-program) for our project, "Depth Scaling and Feature Learning Dynamics in Deep Transformers." Grateful to the ALCF team.
