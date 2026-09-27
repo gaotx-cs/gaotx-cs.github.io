@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am pleased to announce that I have joined the <span style="color: royalblue;">School of Computing</span> at <span style="color: royalblue;">DePaul University</span> as an Assistant Professor.
+I am pleased to announce that I have joined the [School of Computing](https://cdm.depaul.edu/school-of-computing) at [DePaul University](https://www.depaul.edu/) as an Assistant Professor.
