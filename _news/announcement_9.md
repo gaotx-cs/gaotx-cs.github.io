@@ -5,8 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Happy to share that our research initiatives have been selected to receive the [Graduate Research Assistant Program (GRAP) Award](https://www.cdm.depaul.edu/academics/research/Pages/GRAP.aspx) from [DePaul CDM](https://cdm.depaul.edu/)! The awards support student research in the following areas:
-
-- Scalable graph machine learning
-
-- Efficient Transformer attention architectures
+Our research initiatives have been selected to receive the **[Graduate Research Assistant Program (GRAP) Award](https://www.cdm.depaul.edu/academics/research/Pages/GRAP.aspx)** from [DePaul CDM](https://cdm.depaul.edu/), supporting student research in scalable graph machine learning and efficient Transformer attention architectures.

@@ -5,5 +5,4 @@ inline: true
 related_posts: false  
 ---
 
-
-Pleased to announce my new course, ***[CSC 594: Deep Generative Models](https://gaotx-cs.github.io/teaching/csc594/)***, in Spring 2025.
+New course, **[CSC 594: Deep Generative Models](https://gaotx-cs.github.io/teaching/csc594/)**, in Spring 2025.

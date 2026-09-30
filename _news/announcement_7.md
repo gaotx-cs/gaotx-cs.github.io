@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new course, ***[CSC 594: Deep Generative Models](https://gaotx-cs.github.io/teaching/csc594/)***, is supported by **[Google Cloud Education Credits](https://cloud.google.com/edu)**! Grateful for Google Cloud's support!
+[CSC 594: Deep Generative Models](https://gaotx-cs.github.io/teaching/csc594/) is supported by **[Google Cloud Education Credits](https://cloud.google.com/edu)**. Grateful for Google Cloud's support.
