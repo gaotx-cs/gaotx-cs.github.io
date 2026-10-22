@@ -1,9 +1,9 @@
 ---
 layout: about
 inline: true
-group: Masters Students
+group: Alumni
 group_rank: 3
-group_order: 1
+group_order: 2
 
 title: Nishant Singh
 description: Profile of Nishant Singh, Master
@@ -15,7 +15,7 @@ teaser: >
     
 profile:
     name: Nishant Singh
-    position: Masters Student @ DePaul, 11/2024 - Present
+    position: Masters Student @ DePaul, 11/2024 - 06/2025
     align: right
     image: Nishant.jpeg
     email: nsingh28@depaul.edu

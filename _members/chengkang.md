@@ -2,8 +2,8 @@
 layout: about
 inline: true
 group: Masters Students
-group_rank: 1
-group_order: 2
+group_rank: 2
+group_order: 1
 
 title: Chengkang Zhou
 description: Profile of Chengkang Zhou, Master

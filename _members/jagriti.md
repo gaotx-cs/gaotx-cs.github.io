@@ -1,9 +1,9 @@
 ---
 layout: about
 inline: true
-group: Masters Students
-group_rank: 4
-group_order: 2
+group: Alumni
+group_rank: 3
+group_order: 1
 
 title: Jagriti Suneja
 description: Profile of Jagriti Suneja, Master
@@ -15,7 +15,7 @@ teaser: >
     
 profile:
     name: Jagriti Suneja
-    position: Masters Student @ DePaul, 11/2024 - Present
+    position: Masters Student @ DePaul, 11/2024 - 06/2025
     align: right
     image: Jagriti.jpg
     email: jsuneja@depaul.edu

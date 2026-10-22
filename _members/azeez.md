@@ -1,9 +1,9 @@
 ---
 layout: about
 inline: true
-group: Masters Students
+group: Alumni
 group_rank: 3
-group_order: 2
+group_order: 3
 
 title: Mohammed Azeezulla
 description: Profile of Mohammed Azeezulla, Master
@@ -15,7 +15,7 @@ teaser: >
     
 profile:
     name: Mohammed Azeezulla
-    position: Masters Student @ DePaul, 11/2024 - Present
+    position: Masters Student @ DePaul, 11/2024 - 06/2025
     align: right
     image: Azeez.jpg
     email: mmoha134@depaul.edu
