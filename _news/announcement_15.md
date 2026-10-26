@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited talk in the [Data Science and Learning (DSL) group](https://www.anl.gov/dsl) at [Argonne National Laboratory](https://www.anl.gov/) on *"Attention-to-MLP Interaction in Infinite-Depth Transformers."*
+Invited talk in the [DSL group](https://www.anl.gov/dsl) at [Argonne National Laboratory](https://www.anl.gov/) on *"Attention-to-MLP Interaction in Infinite-Depth Transformers."*
