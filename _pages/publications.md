@@ -15,6 +15,12 @@ nav_order: 2
 
 <div class="publications">
 
+## Representative Works
+
 {% bibliography %}
 
+</div>
+
+<div class="publication-link" style="margin-top: 2rem;">
+  <p>For a complete list of publications, please visit my <a href="https://scholar.google.com" target="_blank">Google Scholar</a> profile.</p>
 </div>

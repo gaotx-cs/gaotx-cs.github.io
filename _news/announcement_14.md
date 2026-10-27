@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted at [NeurIPS 2026](https://neurips.cc/).
+Our work on feature learning dynamics for infinite-depth neural networks was accepted at [NeurIPS 2026](https://neurips.cc/). Congratulations to Zihan!
