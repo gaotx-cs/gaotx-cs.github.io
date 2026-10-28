@@ -15,8 +15,11 @@ nav_order: 2
 
 <div class="publications">
 
-<div class="publication-link" style="margin-top: 2rem;">
-  <p>For a complete list of publications, please visit my <a href="https://scholar.google.com/citations?user=iNLlIbQAAAAJ" target="_blank">Google Scholar</a> profile.</p>
+<div class="publication-link" style="margin-top: 2rem; margin-bottom: 1.5rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+  <p style="margin: 0;">For a complete list of publications, please visit my <a href="https://scholar.google.com/citations?user=iNLlIbQAAAAJ" target="_blank">Google Scholar</a> profile.</p>
+  <p style="margin: 0; font-size: 0.9rem; color: #6c757d;">
+    <strong>Note:</strong> <u>Underlined</u> authors indicate advisees/students under my supervision.
+  </p>
 </div>
 
 {% bibliography %}
