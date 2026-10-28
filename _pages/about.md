@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor @ DePaul | Understanding feature learning in deep neural networks and applying generative AI to healthcare
+subtitle: Assistant Professor @ DePaul | Deep Learning Theory | AI4Healthcare
 
 profile:
   align: right
