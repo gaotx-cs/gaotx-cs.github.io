@@ -71,7 +71,7 @@
         {%- endif -%}
 
         <!-- Add your students' last names here (comma separated) -->
-        {% assign student_last_names = "Zhou, Yao" | split: "," %}
+        {% assign student_last_names = "Zhou,Yao" | split: "," %}
         {% if student_last_names contains author_last_name %}
           {% assign author_is_student = true %}
         {% endif %}
